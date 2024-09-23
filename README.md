@@ -108,9 +108,6 @@ https://github.com/user-attachments/assets/8dbbd6b7-b393-4216-9981-eca867dcfffe
 ## Step 4 Creating Data Bricks Clusture
 Databricks clusters are groups of computers that work together to process our data and run computational tasks.
 
-
-https://github.com/user-attachments/assets/5d2dc8a3-f43b-4571-8614-55bb934dd293
-
 The cluster configuration shows 16GB of memory and 4 cores per node. As the number of worker nodes increases, the total number of cores and overall computational power will grow proportionally. However, for smaller projects like this one, even a single node with 4 cores may be sufficient.
 It's important to note that if more computational power is needed—whether through increased cores or additional nodes—you may need to request an increase in your Azure quota. Azure quotas limit the number of resources you can provision, and they're designed to prevent accidental over-consumption of resources.
 The key points to remember are:
