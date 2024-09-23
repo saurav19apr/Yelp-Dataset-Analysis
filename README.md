@@ -29,3 +29,14 @@ Azure allows businesses to build, run, and manage applications across multiple c
 
 We'll utilize Databricks, Azure Storage, and Azure Data Factory for this project.
 
+
+# Getting Started 
+
+## Step 1 Creating Azure Resource Group
+An Azure Resource Group acts as a container that organizes and manages related resources for a project. It allows you to group various Azure services and components together, ensuring they're logically separated from resources belonging to other projects. This grouping simplifies management, deployment, and access control. Additionally, Resource Groups enable you to monitor costs and apply policies across all resources within the group, enhancing both organization and efficiency in your Azure environment.
+
+
+https://github.com/user-attachments/assets/aa8ccb72-9dc8-4b3b-b8c2-d17d5b9a8666
+
+
+
