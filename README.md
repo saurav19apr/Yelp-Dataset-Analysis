@@ -13,12 +13,17 @@ The Yelp Dataset Challenge offers a unique opportunity to uncover hidden insight
 ## Azure
 Azure is Microsoft's cloud computing platform. It provides a wide range of services including:
 
-1)Computing power for running applications
-2)Storage and databases
-3)Networking capabilities
-4)Artificial intelligence and machine learning tools
-5)Internet of Things (IoT) services
-6)DevOps and development tools
+1)Computing power for running applications.
+
+2)Storage and databases.
+
+3)Networking capabilities.
+
+4)Artificial intelligence and machine learning tools.
+
+5)Internet of Things (IoT) services.
+
+6)DevOps and development tools.
 
 Azure allows businesses to build, run, and manage applications across multiple clouds and on-premises without having to maintain physical hardware. It's designed to be flexible, scalable, and cost-effective, supporting various programming languages and frameworks.
 
