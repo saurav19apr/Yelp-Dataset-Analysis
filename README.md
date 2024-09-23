@@ -28,3 +28,4 @@ Azure is Microsoft's cloud computing platform. It provides a wide range of servi
 Azure allows businesses to build, run, and manage applications across multiple clouds and on-premises without having to maintain physical hardware. It's designed to be flexible, scalable, and cost-effective, supporting various programming languages and frameworks.
 
 We'll utilize Databricks, Azure Storage, and Azure Data Factory for this project.
+
